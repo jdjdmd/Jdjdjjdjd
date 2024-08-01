@@ -1,0 +1,8 @@
+C:\Users\alexm\Downloads\ModMenuV2\bin\Debug\MaximilityTemplate.dll
+C:\Users\alexm\Downloads\ModMenuV2\bin\Debug\MaximilityTemplate.pdb
+C:\Users\alexm\Downloads\ModMenuV2\bin\Debug\Assembly-CSharp.dll
+C:\Users\alexm\Downloads\ModMenuV2\obj\Debug\AtomClientX.csproj.AssemblyReference.cache
+C:\Users\alexm\Downloads\ModMenuV2\obj\Debug\AtomClientX.csproj.CoreCompileInputs.cache
+C:\Users\alexm\Downloads\ModMenuV2\obj\Debug\AtomClientX.csproj.CopyComplete
+C:\Users\alexm\Downloads\ModMenuV2\obj\Debug\MaximilityTemplate.dll
+C:\Users\alexm\Downloads\ModMenuV2\obj\Debug\MaximilityTemplate.pdb

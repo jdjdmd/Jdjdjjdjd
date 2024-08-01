@@ -1,0 +1,7 @@
+C:\Users\edite\Downloads\PopeyeMenu\obj\Debug\MenuTemplate.csproj.AssemblyReference.cache
+C:\Users\edite\Downloads\PopeyeMenu\obj\Debug\MenuTemplate.csproj.CoreCompileInputs.cache
+C:\Users\edite\Downloads\PopeyeMenu\obj\Debug\MenuTemp.311F3A02.Up2Date
+C:\Users\edite\Downloads\PopeyeMenu\bin\Debug\PopeyeMenu.dll
+C:\Users\edite\Downloads\PopeyeMenu\bin\Debug\PopeyeMenu.pdb
+C:\Users\edite\Downloads\PopeyeMenu\obj\Debug\PopeyeMenu.dll
+C:\Users\edite\Downloads\PopeyeMenu\obj\Debug\PopeyeMenu.pdb

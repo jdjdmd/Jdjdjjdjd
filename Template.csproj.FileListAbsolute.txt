@@ -1,0 +1,8 @@
+C:\Users\alexm\Downloads\Zinx Menu Template\bin\Debug\MaximilityTemplate.dll
+C:\Users\alexm\Downloads\Zinx Menu Template\bin\Debug\MaximilityTemplate.pdb
+C:\Users\alexm\Downloads\Zinx Menu Template\bin\Debug\Assembly-CSharp.dll
+C:\Users\alexm\Downloads\Zinx Menu Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Users\alexm\Downloads\Zinx Menu Template\obj\Debug\Template.csproj.CopyComplete
+C:\Users\alexm\Downloads\Zinx Menu Template\obj\Debug\MaximilityTemplate.dll
+C:\Users\alexm\Downloads\Zinx Menu Template\obj\Debug\MaximilityTemplate.pdb
+C:\Users\alexm\Downloads\Zinx Menu Template\obj\Debug\Template.csproj.AssemblyReference.cache
